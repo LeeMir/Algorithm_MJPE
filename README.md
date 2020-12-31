@@ -1,5 +1,4 @@
 # Algorithm_MJPE
-- - -
 
 ## Intro
 
