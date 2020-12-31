@@ -1,7 +1,7 @@
 # Algorithm_MJPE
 ===============
 
-##Intro
+## Intro
 ---
 
 1. 알고리즘 문(M)제(J)풀(P)이(E)다.
