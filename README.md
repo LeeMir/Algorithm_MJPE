@@ -10,5 +10,4 @@
 ## Contributor
 
 1. LeeMir
-
-2.
+2. BaDa
