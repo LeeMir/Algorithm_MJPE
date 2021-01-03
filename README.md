@@ -15,9 +15,9 @@
 사이트에서 문제를 푼 후, 자신의 코드를 해당 문제 폴더에 Push 또는 PR<br>
 만약 문제 폴더가 없다면 새로 생성 후 README.md에 문제에 대한 정보 입력<br><br>
 <b>코드 이름 양식 : (본인 깃허브 닉네임)<br>
-<b>BOJ 폴더 이름 양식 : XXXX번 - (문제 이름)<br>
-<b>Programmers 폴더 이름 양식 : (문제 이름)<br>
-<b>README.md 양식 : (문제 복붙해도 됨)
+BOJ 폴더 이름 양식 : XXXX번 - (문제 이름)<br>
+Programmers 폴더 이름 양식 : (문제 이름)<br>
+README.md 양식 : (문제 복붙해도 됨)</b>
 
 <br>
 
