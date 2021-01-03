@@ -1,5 +1,5 @@
 ## 👯 Beakjoon_Online_Judge
-* Link : [ > Click me! <](https://acmicpc.net)
+Link : [ > Click me! <](https://acmicpc.net)
 
 ## 🛠 Guide Line
 BOJ에서 문제를 푼 후, 자신의 코드를 해당 문제 폴더에 Push / PR<br>
