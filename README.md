@@ -11,3 +11,10 @@
 
 1. LeeMir
 2. BaDa
+
+## Directory
+```
+/ ┬ Beakjoon_Online_Judge - (a lot of MJPE)
+  ├ Programmers - (a lot of MJPE)
+  └ README.md
+```
