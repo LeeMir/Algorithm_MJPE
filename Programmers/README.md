@@ -1,2 +1,2 @@
-## 👯 Beakjoon_Online_Judge
+## 👯 Programmers
 Link : [ > Click me! <](https://programmers.co.kr/)
