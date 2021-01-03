@@ -28,9 +28,11 @@
 
 <br>
 
-## Directory
+## 🎓 Directory
 ```
-/ ┬ Beakjoon_Online_Judge - (a lot of MJPE)
-  ├ Programmers - (a lot of MJPE)
+/ ┬ Beakjoon_Online_Judge ┬ (a lot of MJPE)
+  │                       └ README.md
+  ├ Programmers ┬ (a lot of MJPE)
+  │             └ README.md
   └ README.md
 ```
