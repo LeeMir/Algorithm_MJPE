@@ -1,6 +1,8 @@
 # 🍗 Algorithm_MJPE
 : 겨울을 알차게 보내자
 
+<br>
+
 ## 🎈 Intro
 
 1. 알고리즘 문(M)제(J)풀(P)이(E)다.
@@ -17,10 +19,14 @@
 <b>Programmers 폴더 이름 양식 : (문제 이름)<br>
 <b>README.md 양식 : (문제 복붙해도 됨)
 
+<br>
+
 ## 👫 Contributor
 
 * 🧗‍♂️ LeeMir
 * 🧗‍♀️ BaDa
+
+<br>
 
 ## Directory
 ```
