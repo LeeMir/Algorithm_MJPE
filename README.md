@@ -19,8 +19,8 @@
 
 ## 👫 Contributor
 
-* 🧗‍♂️LeeMir
-* 🧗‍♀️BaDa
+* 🧗‍♂️ LeeMir
+* 🧗‍♀️ BaDa
 
 ## Directory
 ```
