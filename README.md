@@ -22,8 +22,8 @@ Programmers 폴더 이름 양식 : (문제 이름)<br>
 
 ## 👫 Contributor
 
-* 🧗‍♂️ LeeMir
-* 🧗‍♀️ BaDa
+* [🧗‍♂️ LeeMir](https://github.com/LeeMir)
+* [🧗‍♀️ BaDa](https://github.com/sally0226)
 
 <br>
 
