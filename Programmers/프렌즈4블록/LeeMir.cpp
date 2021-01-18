@@ -24,7 +24,7 @@ int solution(int m, int n, vector<string> board)
 
 	while (1)
 	{
-		/* ���� ���� */
+		/* 블록 감지 */
 		for (int i = 0;i < n - 1;i++)
 		{
 			for (int j = 0;j < m - 1;j++)
@@ -49,7 +49,7 @@ int solution(int m, int n, vector<string> board)
 		if (sw == 0)
 			break;
 
-		/* ���� ���� */
+		/* 블록 삭제 */
 		for (int i = 0;i < n;i++)
 		{
 			for (int j = 0;j < m;j++)
