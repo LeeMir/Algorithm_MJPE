@@ -2,7 +2,7 @@
 
 using namespace std;
 
-double comb(int a, int n) // aCn °è»ê
+double comb(int a, int n) // aCn ê³„ì‚°
 {
 	int i;
 	double ans = 1;
@@ -22,7 +22,7 @@ double comb(int a, int n) // aCn °è»ê
 	return ans;
 }
 
-double mpow(float a, int b) // aÀÇ bÁ¦°ö
+double mpow(float a, int b) // aì˜ bì œê³±
 {
 	double ans = 1;
 	int i;
@@ -31,7 +31,7 @@ double mpow(float a, int b) // aÀÇ bÁ¦°ö
 	return ans;
 }
 
-double scoreCal(int num, int score) // ÇÑ¹ø¿¡ pÀÇ È®·ü·Î °ñÀ» ³ÖÀ» ¶§ ÃÑ score¸¸Å­ÀÇ °ñÀ» ³ÖÀ» È®·ü
+double scoreCal(int num, int score) // í•œë²ˆì— pì˜ í™•ë¥ ë¡œ ê³¨ì„ ë„£ì„ ë•Œ ì´ scoreë§Œí¼ì˜ ê³¨ì„ ë„£ì„ í™•ë¥ 
 {
 	double p = num;
 	p /= 100;
