@@ -5,6 +5,7 @@ Link : [ > Click me! <](https://acmicpc.net)
 
 ## 📒 Completed Ploblem
 * [16640 - 제이크와 케이크](https://www.acmicpc.net/problem/16440)
+* [1344 - 축구](https://www.acmicpc.net/problem/1344)
 
 <br>
 
